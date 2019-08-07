@@ -2,11 +2,11 @@
 
 ### Work I did in my internship at Sabertooth Technologies (https://sabertoothtech.in).
 
-* Cleaned the data of stock prices fetched by Ticker, as it is the first step towards building any successful neural model.
+* ***Cleaned the data of stock prices fetched by Ticker, as it is the first step towards building any successful neural model.***
 
-* Built an LSTM (Neural Model) to predict how a company's stock price will change the next day using many factors.
+* ***Built an LSTM (Neural Model) to predict how a company's stock price will change the next day using many factors.***
 
-* Used different platforms (such as Tensorboard) to better understand a model's growth and better visualisation of the results.
+* ***Used different platforms (such as Tensorboard) to better understand a model's growth and better visualisation of the results.***
 
 ### The things which I comprehend are: 
 * ***The importance of understanding business objectives.***
