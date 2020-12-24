@@ -27,4 +27,4 @@
 
 
 #### Many ups and downs of prices were predicted correctly before happening! Can't reveal much.. It is company's asset now.
-#### To know more about it. [Click Here](https://www.sabertoothtech.in/blank-page-2) :smiley:
+#### To know more about it. [Click Here](https://www.sabertoothtech.in/services/artificial_intelligence) :smiley:
